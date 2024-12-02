@@ -35,6 +35,7 @@ The data was extracted from the popular Kaggle website. [Click here to preview](
 - Profit( Total revenue - Cost of goods sold)
 - Age group = Age <= 30 ( Junior citizen), Age >= 45 (Senior citizen) and 31-44 (Labor force)
 - Quartile = Division of the year into four equal parts (Quartile 1,2,3&4)
+- Price range = Expensive (Unit price > $150) and less expensive ( Unit price is <= $150)
 
 # ANALYSIS OF DATA
 The analysis of this data was broken down into two parts, the Products and customer analysis.<br>
@@ -53,5 +54,18 @@ For both analysis, we looked into intriguing questions like
 - KPIs comparision of current year to previous year
 
 # INSIGHTS FROM ANALYSIS
-F
-  
+From the analysis of the dataset, I was able to draw some key insights as follows
+* Weekdays has the highest purchasing power and it also generate the highest profit across all years.
+* The year 2007 and 2006 generated the highest profit and revenue respectively.
+* Senior citizens tends to have the highest purchasing power.
+* By country, USA and Australia generates the highest profit.
+* Black deems to be the colour generating the highest profit,only Canada was an exemption where Red generates the most profit.
+* The expensive products on the other hand appears to generate the highest profit also.
+
+# TAKE OFF FROM ANALYSIS
+* The use of Excel macro features for automation of clearing all slicers and switching between both dashboards.\
+* Extraction of Icon,stickers and GIFs from a the flaticon site. [Click here..](flaticon.com)
+* I also employed the use of Adobe colour wheel to assist in selecting matching colours and also for importing colours with their HEX codes. [Link..](https://color.adobe.com/)
+
+Feel free to go through this project and drop your suggestions,correction and opinions on this.<br>
+I included the raw datasets for those interested. Thanks  :blue_heart: :blue_heart: :blue_heart:
