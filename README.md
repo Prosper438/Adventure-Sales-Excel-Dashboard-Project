@@ -3,11 +3,11 @@
 The data analysis prompt to give a clearer understanding on the customers and products performance of the dataset.
 After a well structured analysis,we were able to dig out useful and beneficial informations that will improves sales,revenue and other goals of the company.
 # TABLE OF CONTENT
-- [Data Source and Data Overview](data-source-Data-overview)
-- [Tools Used](tools-used)
-- [Data ETL](data-etl)
-- [Added Column](added-column)
-- [Analysis of Data](analysis-of-data)
+- [Data Source and Data Overview](#data-source-Data-overview)
+- [Tools Used](#tools-used)
+- [Data ETL](#data-etl)
+- [Added Column](#added-column)
+- [Analysis of Data](#analysis-of-data)
 ## Data Source and Data Overview
 The data was extracted from the popular Kaggle website. [Click here to preview](https://www.bing.com/ck/a?!&&p=43272f9d6465a85f18d8a9a52c0d60ee0f30168977ae88cbceaeac02d35d97b8JmltdHM9MTczMzAxMTIwMA&ptn=3&ver=2&hsh=4&fclid=22962217-8ea9-6cfb-0918-36338fee6d32&psq=kaggle&u=a1aHR0cHM6Ly93d3cua2FnZ2xlLmNvbS8&ntb=1)
 <br>The Dataset consist of Six sheets namely 
