@@ -22,6 +22,9 @@ The data was extracted from the popular Kaggle website. [Click here to preview](
  2. Modification of data types: The datatypes of some columns were changed inorder for new custom columns to be derived from them. This action was possible with the aid of Power Query
  3. Data Modelling: Prior to the results from power query, power pivot helped in creating relationship between all six sheet in the workbook inorder to have a data model for pivot tables.
 
+# ADDED COLUMNS 
+
+
 # ANALYSIS OF DATA
 The analysis of this data was broken down into two parts, the Products and customer analysis.<br>
 For the product analysis,
