@@ -26,6 +26,8 @@ The data was extracted from the popular Kaggle website. [Click here to preview](
  1. Removal and Addition of old and new columns respectively: Firstly,old columns which are irrelevant was removed from each sheets of the workbook,the new columns weren added to make the analysis more feasible. Columns like Total Revenue( Order quantity * Unit Price), Cost of goods sold(Order quantity * cost), Profit( Total revenue - Cost of goods sold),other added columns include Age( which was derived with the aid of the DAX language)
  2. Modification of data types: The datatypes of some columns were changed inorder for new custom columns to be derived from them. This action was possible with the aid of Power Query
  3. Data Modelling: Prior to the results from power query, power pivot helped in creating relationship between all six sheet in the workbook inorder to have a data model for pivot tables.
+![Screenshot (104)](https://github.com/user-attachments/assets/094db99a-f719-470a-90cc-e9b93f35d719)
+![Screenshot (105)](https://github.com/user-attachments/assets/a8662202-7837-4508-bf19-96465460ceb2)
 
 # ADDED COLUMNS 
 - Total Revenue( Order quantity * Unit Price)
@@ -33,7 +35,7 @@ The data was extracted from the popular Kaggle website. [Click here to preview](
 - Profit( Total revenue - Cost of goods sold)
 - Age group = Age <= 30 ( Junior citizen), Age >= 45 (Senior citizen) and 31-44 (Labor force)
 - Quartile = Division of the year into four equal parts (Quartile 1,2,3&4)
-  
+
 # ANALYSIS OF DATA
 The analysis of this data was broken down into two parts, the Products and customer analysis.<br>
 For the product analysis, were able to look into
