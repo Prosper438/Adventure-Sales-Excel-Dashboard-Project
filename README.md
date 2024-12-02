@@ -8,6 +8,8 @@ After a well structured analysis,we were able to dig out useful and beneficial i
 - [Data ETL](#data-etl)
 - [Added Column](#added-column)
 - [Analysis of Data](#analysis-of-data)
+- [INSIGHTS FROM ANALYSIS](#insights-from-analysis)
+- [TAKEOFF FROM ANALYSIS](#takeoff-from-analysis)
 ## Data Source and Data Overview
 The data was extracted from the popular Kaggle website. [Click here to preview](https://www.bing.com/ck/a?!&&p=43272f9d6465a85f18d8a9a52c0d60ee0f30168977ae88cbceaeac02d35d97b8JmltdHM9MTczMzAxMTIwMA&ptn=3&ver=2&hsh=4&fclid=22962217-8ea9-6cfb-0918-36338fee6d32&psq=kaggle&u=a1aHR0cHM6Ly93d3cua2FnZ2xlLmNvbS8&ntb=1)
 <br>The Dataset consist of Six sheets namely 
@@ -28,6 +30,7 @@ The data was extracted from the popular Kaggle website. [Click here to preview](
  3. Data Modelling: Prior to the results from power query, power pivot helped in creating relationship between all six sheet in the workbook inorder to have a data model for pivot tables.
 ![Screenshot (104)](https://github.com/user-attachments/assets/094db99a-f719-470a-90cc-e9b93f35d719)
 ![Screenshot (105)](https://github.com/user-attachments/assets/a8662202-7837-4508-bf19-96465460ceb2)
+
 
 # ADDED COLUMNS 
 - Total Revenue( Order quantity * Unit Price)
@@ -62,7 +65,7 @@ From the analysis of the dataset, I was able to draw some key insights as follow
 * Black deems to be the colour generating the highest profit,only Canada was an exemption where Red generates the most profit.
 * The expensive products on the other hand appears to generate the highest profit also.
 
-# TAKE OFF FROM ANALYSIS
+# TAKEOFF FROM ANALYSIS
 * The use of Excel macro features for automation of clearing all slicers and switching between both dashboards.\
 * Extraction of Icon,stickers and GIFs from a the flaticon site. [Click here..](flaticon.com)
 * I also employed the use of Adobe colour wheel to assist in selecting matching colours and also for importing colours with their HEX codes. [Link..](https://color.adobe.com/)
