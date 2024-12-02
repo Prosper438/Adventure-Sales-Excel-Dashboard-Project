@@ -38,12 +38,20 @@ The data was extracted from the popular Kaggle website. [Click here to preview](
 
 # ANALYSIS OF DATA
 The analysis of this data was broken down into two parts, the Products and customer analysis.<br>
-For the product analysis, were able to look into
+For both analysis, we looked into intriguing questions like
 - Top 5 Profitable Product
 - Profitbility of Product by colour
 - Profit by Pricing type
-- Profit by Age group <br>
-Whereas for the customer, were able to deduce
-  - Average customer age
-  - Count of customer
-    
+- Profit by Age group
+- Profit by gender
+- Top 5 profitable customers
+- Profit by weekdays
+- Quartely profit analysis
+- Monthly profit trends
+- Yearly performance Metrics (Above average)
+- Profit by weektype
+- KPIs comparision of current year to previous year
+
+# INSIGHTS FROM ANALYSIS
+F
+  
