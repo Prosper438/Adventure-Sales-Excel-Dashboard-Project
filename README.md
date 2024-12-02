@@ -4,7 +4,7 @@ The data analysis prompt to give a clearer understanding on the customers and pr
 After a well structured analysis,we were able to dig out useful and beneficial informations that will improves sales,revenue and other goals of the company.
 # TABLE OF CONTENT
 - [Data Source and Data Overview](data-source-Data-overview)
-- [Tools Used](tools_used)
+- [Tools Used](tools-used)
 - [Data ETL](data-etl)
 - [Added Column](added-column)
 - [Analysis of Data](analysis-of-data)
