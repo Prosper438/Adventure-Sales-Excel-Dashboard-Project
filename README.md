@@ -23,8 +23,20 @@ The data was extracted from the popular Kaggle website. [Click here to preview](
  3. Data Modelling: Prior to the results from power query, power pivot helped in creating relationship between all six sheet in the workbook inorder to have a data model for pivot tables.
 
 # ADDED COLUMNS 
-
-
+- Total Revenue( Order quantity * Unit Price)
+- Cost of goods sold(Order quantity * cost)
+- Profit( Total revenue - Cost of goods sold)
+- Age group = Age <= 30 ( Junior citizen), Age >= 45 (Senior citizen) and 31-44 (Labor force)
+- Quartile = Division of the year into four equal parts (Quartile 1,2,3&4)
+  
 # ANALYSIS OF DATA
 The analysis of this data was broken down into two parts, the Products and customer analysis.<br>
-For the product analysis,
+For the product analysis, were able to look into
+- Top 5 Profitable Product
+- Profitbility of Product by colour
+- Profit by Pricing type
+- Profit by Age group
+  Whereas for the customer, were ablr to deduce
+  - Average customer age
+  - Count of customer
+    
